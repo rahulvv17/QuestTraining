@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\bin\Debug\daay4_StringFunctions.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\bin\Debug\daay4_StringFunctions.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\bin\Debug\daay4_StringFunctions.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\obj\Debug\daay4_StringFunctions.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\obj\Debug\daay4_StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\obj\Debug\daay4_StringFunctions.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\daay4_StringFunctions\obj\Debug\daay4_StringFunctions.pdb

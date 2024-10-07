@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\bin\Debug\Day4_1.2Functions.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\bin\Debug\Day4_1.2Functions.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\bin\Debug\Day4_1.2Functions.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\obj\Debug\Day4_1.2Functions.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\obj\Debug\Day4_1.2Functions.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\obj\Debug\Day4_1.2Functions.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\QuestTrainingBasics\Day4_1.2Functions\obj\Debug\Day4_1.2Functions.pdb
