@@ -11,7 +11,7 @@ namespace Day05_Namespaces
     {
         static void Main(string[] args)
         {
-            MathUtilities
+            MathUtilities.add(1, 2);
         }
     }
 }

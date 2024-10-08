@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\bin\Debug\Day5-Age.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\bin\Debug\Day5-Age.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\bin\Debug\Day5-Age.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\obj\Debug\Day5-Age.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\obj\Debug\Day5-Age.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\obj\Debug\Day5-Age.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Age\obj\Debug\Day5-Age.pdb

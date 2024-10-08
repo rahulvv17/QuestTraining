@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\bin\Debug\Day5-RemoveEvenFromList.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\bin\Debug\Day5-RemoveEvenFromList.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\bin\Debug\Day5-RemoveEvenFromList.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\obj\Debug\Day5-RemoveEvenFromList.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\obj\Debug\Day5-RemoveEvenFromList.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\obj\Debug\Day5-RemoveEvenFromList.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-RemoveEvenFromList\obj\Debug\Day5-RemoveEvenFromList.pdb

@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\bin\Debug\Day5-Dictionary.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\bin\Debug\Day5-Dictionary.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\bin\Debug\Day5-Dictionary.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\obj\Debug\Day5-Dictionary.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\obj\Debug\Day5-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\obj\Debug\Day5-Dictionary.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-Dictionary\obj\Debug\Day5-Dictionary.pdb

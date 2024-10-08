@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\obj\Debug\Day5-DictionaryMarks.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\obj\Debug\Day5-DictionaryMarks.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\bin\Debug\Day5-DictionaryMarks.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\bin\Debug\Day5-DictionaryMarks.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\bin\Debug\Day5-DictionaryMarks.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\obj\Debug\Day5-DictionaryMarks.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day05\Day05-Namespaces\Day5-DictionaryMarks\obj\Debug\Day5-DictionaryMarks.pdb
