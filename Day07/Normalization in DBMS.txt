@@ -1,0 +1,33 @@
+Normalization in DBMS:
+
+Normalization is the process of organizing data in a database to reduce redundancy and improve data integrity. It involves dividing large tables into smaller, related tables and establishing relationships between them using foreign keys. The main goal is to make the database more efficient and to minimize anomalies (insertion, update, and deletion anomalies).
+
+Types of Normalization:
+1. First Normal Form (1NF):
+Definition: A table is in 1NF if:
+All columns contain atomic (indivisible) values.
+Each record is unique, and there are no repeating groups or arrays.
+Goal: Eliminate duplicate columns and ensure each column contains only one value.
+Example: A table with multiple phone numbers in a single column violates 1NF. Separate them into individual rows.
+
+
+2. Second Normal Form (2NF):
+Definition: A table is in 2NF if:
+It is in 1NF.
+All non-key columns are fully dependent on the entire primary key, not just part of it (no partial dependency).
+Goal: Remove partial dependencies.
+Example: In a composite key, non-key columns should depend on all parts of the key, not just one part.
+
+
+3. Third Normal Form (3NF):
+Definition: A table is in 3NF if:
+It is in 2NF.
+There is no transitive dependency, meaning non-key columns are not dependent on other non-key columns.
+Goal: Remove transitive dependencies.
+Example: If column B depends on column A and column C depends on column B, remove such indirect dependencies by creating another table.
+
+
+4. Boyce-Codd Normal Form (BCNF):
+Definition: A stricter version of 3NF, where every determinant (a column that determines another column) must be a candidate key.
+Goal: Ensure that only candidate keys determine other attributes.
+Example: If a non-candidate key determines another column, it violates BCNF.

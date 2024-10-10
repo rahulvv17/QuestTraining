@@ -1,0 +1,38 @@
+STORED PROCEDURE
+
+Definition: A stored procedure is a precompiled collection of one or more SQL statements that can be executed as a single unit. It is stored in the database and can be called by applications or users.
+
+
+
+Creating a Stored Procedure
+
+CREATE PROCEDURE GetEmployeeById
+@EmployeeId INT
+AS
+BEGIN
+    SELECT * FROM Employees
+    WHERE Id = @EmployeeId;
+END;
+
+
+Executing the Stored Procedure
+
+EXEC GetEmployeeById @EmployeeId = 1;
+
+
+Advantages of Stored Procedures
+Performance:
+
+Stored procedures are precompiled, improving performance compared to executing multiple individual SQL statements.
+Reusability:
+
+Can be reused across different applications without rewriting SQL code.
+Security:
+
+Allows users to execute procedures without direct access to underlying data, enhancing security.
+Maintainability:
+
+Business logic changes can be made in the stored procedure without modifying the application code.
+Transaction Management:
+
+Stored procedures can manage transactions, ensuring data integrity.
