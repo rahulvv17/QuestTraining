@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D9B008E-9124-4166-9D93-A3AF18C05E95}|..\\Question6\\Question6.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19423093-BA99-42C8-B142-2F96A99085EC}|Question5\\Question5.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BAEFEB-1B31-4E84-90EB-F9D5C2FD283A}|..\\Question4\\Question4.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0361B0A3-18FA-49D7-8562-91DA03A3B681}|..\\Question3\\Question3.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7D74EF-50AE-4836-A7A0-A6E583358056}|..\\Question16\\Question16.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365016B2-A581-4FA8-8506-1B146FF0C777}|..\\Question15\\Question15.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB5EB82F-D2E8-4E31-85BD-178F5C1F98E6}|..\\Question14\\Question14.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F191342-0312-44B5-81B0-BE17DABDF04C}|..\\Question13\\Question13.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CDB083-0199-41B3-A5D6-EDB3E35FE5C4}|..\\Question12\\Question12.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795AD65F-BAC5-4D4A-80D4-84C3DBF127A1}|..\\Question11\\Question11.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8ED6658-1F6A-46B6-B99D-D767A6D409D2}|..\\Question10\\Question10.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495BEFC-A999-4155-A172-896F82EA1C89}|..\\Question9\\Question9.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB63B99B-7488-4F5B-8BA6-FF8BC92C2C7A}|..\\Question8\\Question8.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52CFE2B-B4C8-4190-9D96-A0350949380D}|..\\Question7\\Question7.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB54D66-3FA4-4BBD-9D89-D5E2A889B234}|..\\Question2\\Question2.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E56F1430-8EC0-4103-BEDF-F6A2F548B447}|..\\Question1\\Question1.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4410960-FB88-475E-8612-875D08FE7B14}|..\\CalculatorBase\\CalculatorBase.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\calculatorbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\service\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\service\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\service\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\booksmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\booksmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\entities\\types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\entities\\types\\types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day14\\bookmanagement\\bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C647887-D7DF-4F9A-9C40-DAC567BD3284}|BookManagement\\BookManagement.csproj|solutionrelative:bookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question16\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question16\\Program.cs",
+              "RelativeToolTip": "..\\Question16\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:14:58.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question15\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question15\\Program.cs",
+              "RelativeToolTip": "..\\Question15\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:14:10.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question14\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question14\\Program.cs",
+              "RelativeToolTip": "..\\Question14\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:11:22.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question13\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question13\\Program.cs",
+              "RelativeToolTip": "..\\Question13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:08:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question12\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question12\\Program.cs",
+              "RelativeToolTip": "..\\Question12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:07:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question11\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question11\\Program.cs",
+              "RelativeToolTip": "..\\Question11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:02:00.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question10\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question10\\Program.cs",
+              "RelativeToolTip": "..\\Question10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:01:08.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question3\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question3\\Program.cs",
+              "RelativeToolTip": "..\\Question3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:49:29.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question4\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question4\\Program.cs",
+              "RelativeToolTip": "..\\Question4\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:50:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Program.cs",
+              "RelativeToolTip": "..\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:51:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question6\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question6\\Program.cs",
+              "RelativeToolTip": "..\\Question6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:53:12.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question9\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question9\\Program.cs",
+              "RelativeToolTip": "..\\Question9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T11:00:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question8\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question8\\Program.cs",
+              "RelativeToolTip": "..\\Question8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:59:01.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question7\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question7\\Program.cs",
+              "RelativeToolTip": "..\\Question7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:57:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question2\\Program.cs",
+              "RelativeToolTip": "..\\Question2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:17:47.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Question1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\Question1\\Program.cs",
+              "RelativeToolTip": "..\\Question1\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA7wDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:04:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\CalculatorBase\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CalculatorBase\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\CalculatorBase\\Program.cs",
+              "RelativeToolTip": "..\\CalculatorBase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:12:24.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Service\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Service\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Service\\JsonFileStorage.cs",
+              "RelativeToolTip": "BookManagement\\Service\\JsonFileStorage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:25:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Service\\IStorageService.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Service\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Service\\IStorageService.cs",
+              "RelativeToolTip": "BookManagement\\Service\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:16:24.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Entities\\Book.cs",
+              "RelativeToolTip": "BookManagement\\Entities\\Book.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:14:07.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BooksManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\BooksManagement.cs",
+              "RelativeDocumentMoniker": "BookManagement\\BooksManagement.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\BooksManagement.cs",
+              "RelativeToolTip": "BookManagement\\BooksManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:02:50.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Types.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Entities\\Types\\Types.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Entities\\Types\\Types.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Entities\\Types\\Types.cs",
+              "RelativeToolTip": "BookManagement\\Entities\\Types\\Types.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:01:14.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeDocumentMoniker": "BookManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day14\\BookManagement\\BookManagement\\Program.cs",
+              "RelativeToolTip": "BookManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:58:57.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B452BA5-E45D-4150-99FA-82DF6F734E88}|..\\Q3\\Q3.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\q3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C943CDD8-734D-40FA-B114-653AD3C2CC3D}|..\\StringExtensionMethod\\StringExtensionMethod.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\stringextensionmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2BC1EDD-2429-4366-BC33-EED7C2EB57CC}|..\\Q2\\Q2.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A37789-B99F-4455-92C5-5209034B21C3}|..\\Q1\\Q1.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1FF6BB1-1F54-4640-9E7D-0A3EA7946F10}|Linq\\Linq.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1FF6BB1-1F54-4640-9E7D-0A3EA7946F10}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q3\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q3\\Program.cs",
+              "RelativeToolTip": "..\\Q3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:05:35.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\StringExtensionMethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StringExtensionMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\StringExtensionMethod\\Program.cs",
+              "RelativeToolTip": "..\\StringExtensionMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:49:53.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q2\\Program.cs",
+              "RelativeToolTip": "..\\Q2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:49:42.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Q1\\Program.cs",
+              "RelativeToolTip": "..\\Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T04:16:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Linq\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:49:17.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
