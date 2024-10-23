@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\bin\Debug\SqlInsert.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\bin\Debug\SqlInsert.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\bin\Debug\SqlInsert.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\obj\Debug\SqlInsert.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\obj\Debug\SqlInsert.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\obj\Debug\SqlInsert.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Day16\SqlInsert\obj\Debug\SqlInsert.pdb

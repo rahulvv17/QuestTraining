@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\Q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CE9EEE-3382-4568-8816-B8D770E8D64C}|..\\ContactManagement\\ContactManagement.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\contactmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AF692D-78C6-4ACB-B6DF-E3C9DAFF2629}|..\\NewProject\\NewProject.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\newproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39140601-D8E3-444D-A036-78F16D4F8B26}|..\\SqlInsertFromList\\SqlInsertFromList.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\sqlinsertfromlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5EFC13-771D-40D2-B3C7-BDA57E50D25F}|..\\SqlSelect\\SqlSelect.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\sqlselect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1479BBE-90E4-44E9-97AE-22EF8F00311E}|..\\SqlInsert\\SqlInsert.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\sqlinsert\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\data\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA057C50-34AA-4D1D-B222-D5162372496F}|..\\BookandMember\\BookandMember.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\bookandmember\\entities\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087BCDAD-C700-4E78-944C-BD90478AAE76}|..\\Q2\\Q2.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\q2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A56488C4-D663-479E-AAB4-F7EA6FA30634}|Q1\\Q1.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day16\\q1\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A56488C4-D663-479E-AAB4-F7EA6FA30634}|Q1\\Q1.csproj|solutionrelative:q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\ContactManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ContactManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\ContactManagement\\Program.cs",
+              "RelativeToolTip": "..\\ContactManagement\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwHoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:37:47.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlInsertFromList\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SqlInsertFromList\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlInsertFromList\\Program.cs",
+              "RelativeToolTip": "..\\SqlInsertFromList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:15:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlSelect\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SqlSelect\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlSelect\\Program.cs",
+              "RelativeToolTip": "..\\SqlSelect\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:06:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlInsert\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SqlInsert\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\SqlInsert\\Program.cs",
+              "RelativeToolTip": "..\\SqlInsert\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:58:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\NewProject\\Program.cs",
+              "RelativeDocumentMoniker": "..\\NewProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\NewProject\\Program.cs",
+              "RelativeToolTip": "..\\NewProject\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:02:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "..\\BookandMember\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:07:51.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Data\\DataStore.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Data\\DataStore.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Data\\DataStore.cs",
+              "RelativeToolTip": "..\\BookandMember\\Data\\DataStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:16:59.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\BookandMember\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:06:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\Member.cs",
+              "RelativeToolTip": "..\\BookandMember\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:09:51.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\BookandMember\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:09:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Entities\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Entities\\GenericResponse.cs",
+              "RelativeToolTip": "..\\BookandMember\\Entities\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:28:42.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BookandMember\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\BookandMember\\Program.cs",
+              "RelativeToolTip": "..\\BookandMember\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:00:35.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\Q2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Q2\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\Q2\\Program.cs",
+              "RelativeToolTip": "..\\Q2\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:13:32.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\Q1\\Q1\\Program.cs",
+              "RelativeDocumentMoniker": "Q1\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day16\\Q1\\Q1\\Program.cs",
+              "RelativeToolTip": "Q1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T03:52:04.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

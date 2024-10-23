@@ -15,7 +15,7 @@
       "AbsoluteMoniker": "D:0:0:{A6A37789-B99F-4455-92C5-5209034B21C3}|..\\Q1\\Q1.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\q1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1FF6BB1-1F54-4640-9E7D-0A3EA7946F10}|Linq\\Linq.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day15\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1FF6BB1-1F54-4640-9E7D-0A3EA7946F10}|Linq\\Linq.csproj|C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day15\\Linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1FF6BB1-1F54-4640-9E7D-0A3EA7946F10}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,8 +51,7 @@
               "RelativeToolTip": "..\\StringExtensionMethod\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T10:49:53.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T10:49:53.481Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "..\\Q2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T04:49:42.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T04:49:42.251Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "..\\Q1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T04:16:24.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T04:16:24.732Z"
             },
             {
               "$type": "Document",
@@ -90,8 +87,7 @@
               "RelativeToolTip": "Linq\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T03:49:17.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T03:49:17.943Z"
             }
           ]
         }
