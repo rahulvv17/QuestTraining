@@ -1,0 +1,7 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\bin\Debug\PatientDoctorManagement.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\bin\Debug\PatientDoctorManagement.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\bin\Debug\PatientDoctorManagement.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\obj\Debug\PatientDoctorManagement.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\obj\Debug\PatientDoctorManagement.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\obj\Debug\PatientDoctorManagement.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment2\PatientDoctorManagement\PatientDoctorManagement\obj\Debug\PatientDoctorManagement.pdb
