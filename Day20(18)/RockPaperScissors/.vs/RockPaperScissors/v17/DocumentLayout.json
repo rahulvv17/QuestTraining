@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEDEA067-AB17-4A5D-B9AA-6C01FC794F85}|MineSweeper\\MineSweeper.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day20(18)\\rockpaperscissors\\minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEDEA067-AB17-4A5D-B9AA-6C01FC794F85}|MineSweeper\\MineSweeper.csproj|solutionrelative:minesweeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day20(18)\\rockpaperscissors\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day20(18)\\rockpaperscissors\\rockpaperscissors\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day20(18)\\rockpaperscissors\\rockpaperscissors\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day20(18)\\rockpaperscissors\\rockpaperscissors\\rockpaperscissorsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FBF274-06FC-42F4-89C2-12A98A7F80EA}|RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:rockpaperscissors\\rockpaperscissorsgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\MineSweeper\\Program.cs",
+              "RelativeDocumentMoniker": "MineSweeper\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\MineSweeper\\Program.cs",
+              "RelativeToolTip": "MineSweeper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:00:15.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Program.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Program.cs",
+              "RelativeToolTip": "RockPaperScissors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:51:17.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RockPaperScissorsGame.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\RockPaperScissorsGame.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\RockPaperScissorsGame.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\RockPaperScissorsGame.cs",
+              "RelativeToolTip": "RockPaperScissors\\RockPaperScissorsGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:54:10.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Player.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Player.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Player.cs",
+              "RelativeToolTip": "RockPaperScissors\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:53:24.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Computer.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Computer.cs",
+              "RelativeDocumentMoniker": "RockPaperScissors\\Computer.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day20(18)\\RockPaperScissors\\RockPaperScissors\\Computer.cs",
+              "RelativeToolTip": "RockPaperScissors\\Computer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:52:19.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
