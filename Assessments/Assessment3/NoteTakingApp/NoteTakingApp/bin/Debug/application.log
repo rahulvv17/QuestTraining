@@ -1,0 +1,25 @@
+2024-11-06 14:20:49,162 [1] INFO  NoteRepository - Note created successfully.
+2024-11-06 14:20:49,173 [1] INFO  Program - New note created.
+2024-11-06 14:20:51,098 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 14:21:09,478 [1] INFO  NoteRepository - Note updated successfully.
+2024-11-06 14:21:09,478 [1] INFO  Program - Note updated.
+2024-11-06 14:21:11,734 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 14:25:49,442 [1] INFO  NoteRepository - Note deleted successfully.
+2024-11-06 14:25:49,442 [1] INFO  Program - Note deleted.
+2024-11-06 14:25:52,312 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 14:26:05,882 [1] INFO  NoteRepository - Note created successfully.
+2024-11-06 14:26:05,882 [1] INFO  Program - New note created.
+2024-11-06 14:26:08,487 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 15:35:14,392 [1] INFO  NoteRepository - Note created successfully.
+2024-11-06 15:35:14,401 [1] INFO  Program - New note created.
+2024-11-06 15:35:18,460 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 15:35:53,796 [1] INFO  NoteRepository - Note updated successfully.
+2024-11-06 15:35:53,796 [1] INFO  Program - Note updated.
+2024-11-06 15:36:00,301 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 15:36:47,030 [1] INFO  NoteRepository - Note updated successfully.
+2024-11-06 15:36:47,031 [1] INFO  Program - Note updated.
+2024-11-06 15:36:52,262 [1] INFO  NoteRepository - Note deleted successfully.
+2024-11-06 15:36:52,263 [1] INFO  Program - Note deleted.
+2024-11-06 15:36:53,980 [1] INFO  NoteRepository - Fetched all notes successfully.
+2024-11-06 15:39:15,653 [1] INFO  NoteRepository - Note created successfully.
+2024-11-06 15:39:15,675 [1] INFO  Program - New note created.

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\Asynchronous\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793B8AFD-147C-491C-AC14-51ED9B96D2BA}|..\\ReverseString\\ReverseString.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day24(22)\\reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E3AB32-548D-4BAA-AA1C-D337EF62FE32}|..\\SortArrayInDesc\\SortArrayInDesc.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day24(22)\\sortarrayindesc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0890485-BB75-4EA5-B9AC-9DED55B8ADDC}|..\\CustomExceptionExample\\CustomExceptionExample.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day24(22)\\customexceptionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0890485-BB75-4EA5-B9AC-9DED55B8ADDC}|..\\CustomExceptionExample\\CustomExceptionExample.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day24(22)\\customexceptionexample\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{723BB344-40BC-4541-9632-19EC782ABFE3}|Asynchronous\\Asynchronous.csproj|c:\\users\\rahul vv\\documents\\github\\questtraining\\day24(22)\\asynchronous\\asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{723BB344-40BC-4541-9632-19EC782ABFE3}|Asynchronous\\Asynchronous.csproj|solutionrelative:asynchronous\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ReverseString\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\ReverseString\\Program.cs",
+              "RelativeToolTip": "..\\ReverseString\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:20:36.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\SortArrayInDesc\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SortArrayInDesc\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\SortArrayInDesc\\Program.cs",
+              "RelativeToolTip": "..\\SortArrayInDesc\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:10:03.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\CustomExceptionExample\\Person.cs",
+              "RelativeDocumentMoniker": "..\\CustomExceptionExample\\Person.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\CustomExceptionExample\\Person.cs",
+              "RelativeToolTip": "..\\CustomExceptionExample\\Person.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:00:45.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\CustomExceptionExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CustomExceptionExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\CustomExceptionExample\\Program.cs",
+              "RelativeToolTip": "..\\CustomExceptionExample\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:59:29.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\Asynchronous\\Asynchronous\\Program.cs",
+              "RelativeDocumentMoniker": "Asynchronous\\Program.cs",
+              "ToolTip": "C:\\Users\\Rahul vv\\Documents\\GitHub\\QuestTraining\\Day24(22)\\Asynchronous\\Asynchronous\\Program.cs",
+              "RelativeToolTip": "Asynchronous\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:52:11.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

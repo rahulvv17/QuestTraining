@@ -1,0 +1,12 @@
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\log4net.config
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\log4net.dll
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\log4net.pdb
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\bin\Debug\log4net.xml
+C:\Users\Rahul vv\Documents\GitHub\QuestTraining\Assessments\Assessment3\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTaki.8F7D78EC.Up2Date
